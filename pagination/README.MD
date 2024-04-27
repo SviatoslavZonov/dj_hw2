@@ -1,9 +1,9 @@
 # Решение дополнительного домашнего задания
 
 Добавление функции пагинации и реализация чтения файла: 
-- [views.py](https://github.com/SviatoslavZonov/dj_hw2/blob/main/pagination/pagination/stations/views.py)
+- [views.py](https://github.com/SviatoslavZonov/dj_hw2/blob/main/pagination/stations/views.py)
 - [setting.py](https://github.com/SviatoslavZonov/dj_hw2/blob/main/pagination/pagination/settings.py)
-- [read_csv.py](https://github.com/SviatoslavZonov/dj_hw2/blob/main/pagination/pagination/stations/read_csv.py)
+- [read_csv.py](https://github.com/SviatoslavZonov/dj_hw2/blob/main/pagination/stations/read_csv.py)
 
 http://127.0.0.1:8000/bus_stations/?page=1
 
